@@ -1,4 +1,0 @@
-{'id': '98', 'name': 'lisa', 'english': 90, 'python': 78, 'java': 67}
-{'id': '1001', 'name': '张三', 'english': 89, 'python': 99, 'java': 89}
-{'id': '1002', 'name': '王五', 'english': 78, 'python': 34, 'java': 56}
-{'id': '1003', 'name': '赵六', 'english': 90, 'python': 89, 'java': 78}
